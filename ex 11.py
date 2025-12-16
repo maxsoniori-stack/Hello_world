@@ -1,3 +1,3 @@
-a = input("digite numeral 10: ")
+a = 10
 b = input("digite numeral 50: ")
-print(a+b)
+print(str(a)+b)
